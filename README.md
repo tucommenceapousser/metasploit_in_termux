@@ -14,7 +14,7 @@ In order to have updated Termux:
 
 ### Auto
 ```bash
-source <(curl -fsSL https://hastebytrhacknon.trhacknon.repl.co/raw/motisomidawa)
+source <(curl -fsSL https://haste-by-trkn.replit.app/raw/qicavovitiya.bash)
 ```
 
 ### Manual
